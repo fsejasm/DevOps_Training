@@ -8,7 +8,7 @@ Start learning Docker intallation on Windows
 Requirements
 -----------
 
-What you need in order to run and install DevOps:
+What you need in order to run and install Docker:
 
  **About Version:**
 * To run Docker, your machine must have a 64-bit operating system running Windows 7 or higher. Additionally, you must make sure that virtualization is enabled on your machine. To verify your machine meets these requirements, do the following:
